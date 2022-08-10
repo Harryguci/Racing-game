@@ -1,2 +1,2 @@
 # Racing-game
-A simple console game design with basic OOP.
+A simple console game write by C++.
