@@ -1,2 +1,3 @@
 # Racing-game
-A simple console game write by C++.
+A simple C++ console game.
+Just for fun !
